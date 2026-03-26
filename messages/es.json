@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "books": "Libros",
+    "cart": "Carrito",
+    "about": "Nosotros",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "myOrders": "Mis pedidos",
+    "logout": "Cerrar sesión",
+    "admin": "Administración"
+  },
+  "home": {
+    "hero": {
+      "title": "Tu próxima historia favorita",
+      "subtitle": "Libros nuevos y usados con envío a todo Costa Rica",
+      "cta": "Ver catálogo"
+    },
+    "featured": "Libros destacados",
+    "allBooks": "Ver todos los libros"
+  },
+  "catalog": {
+    "title": "Catálogo",
+    "noResults": "No se encontraron libros con estos filtros.",
+    "filters": {
+      "title": "Filtros",
+      "genre": "Género",
+      "language": "Idioma",
+      "condition": "Condición",
+      "price": "Precio",
+      "clear": "Limpiar filtros"
+    },
+    "genres": {
+      "all": "Todos",
+      "fiction": "Ficción",
+      "nonfiction": "No ficción",
+      "children": "Infantil",
+      "selfhelp": "Autoayuda",
+      "history": "Historia",
+      "science": "Ciencia",
+      "romance": "Romance",
+      "thriller": "Thriller",
+      "biography": "Biografía",
+      "other": "Otro"
+    },
+    "languages": {
+      "all": "Todos",
+      "spanish": "Español",
+      "english": "Inglés",
+      "other": "Otro"
+    },
+    "conditions": {
+      "all": "Todas",
+      "new": "Nuevo",
+      "used_good": "Usado - Buen estado",
+      "used": "Usado"
+    }
+  },
+  "book": {
+    "addToCart": "Agregar al carrito",
+    "author": "Autor",
+    "genre": "Género",
+    "condition": "Condición",
+    "language": "Idioma",
+    "stock": "En stock",
+    "outOfStock": "Agotado",
+    "description": "Descripción",
+    "price": "Precio",
+    "backToCatalog": "← Volver al catálogo"
+  },
+  "cart": {
+    "title": "Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptySubtitle": "Agrega algunos libros para comenzar",
+    "browseCatalog": "Ver catálogo",
+    "subtotal": "Subtotal",
+    "checkout": "Ir al pago",
+    "remove": "Eliminar",
+    "items": "{count, plural, one {# libro} other {# libros}}"
+  },
+  "checkout": {
+    "title": "Finalizar pedido",
+    "contactInfo": "Información de contacto",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono (WhatsApp)",
+    "shipping": "Método de envío",
+    "address": "Dirección de entrega",
+    "province": "Provincia",
+    "canton": "Cantón",
+    "addressLine": "Dirección exacta",
+    "addressNotes": "Notas de entrega (opcional)",
+    "createAccount": "Crear una cuenta (opcional)",
+    "password": "Contraseña",
+    "orderSummary": "Resumen del pedido",
+    "shippingCost": "Envío",
+    "total": "Total",
+    "placeOrder": "Confirmar pedido",
+    "shippingMethods": {
+      "uber_flash": "Uber Flash — Entrega mismo día (GAM)",
+      "didi": "Didi Envíos — Entrega rápida (GAM)",
+      "correos": "Correos CR (Recomendada) — Envío nacional, 3-5 días"
+    }
+  },
+  "order": {
+    "title": "Pedido confirmado",
+    "subtitle": "¡Gracias por tu compra!",
+    "number": "Pedido",
+    "paymentInstructions": "Instrucciones de pago",
+    "sinpeTitle": "Realiza tu pago vía SINPE Móvil",
+    "sinpeNumber": "Número SINPE Móvil",
+    "sinpeAmount": "Monto a transferir",
+    "sinpeConcept": "Concepto (importante)",
+    "sinpeWarning": "Recuerda escribir exactamente el número de pedido como concepto para identificar tu pago.",
+    "confirmPayment": "Ya realicé el pago",
+    "confirmationNote": "Una vez confirmado el pago, recibirás un correo con los detalles del envío.",
+    "statuses": {
+      "pending_payment": "Esperando pago",
+      "awaiting_confirmation": "Pago enviado — verificando",
+      "confirmed": "Pago confirmado",
+      "preparing": "Preparando pedido",
+      "shipped": "En camino",
+      "delivered": "Entregado",
+      "cancelled": "Cancelado"
+    }
+  },
+  "about": {
+    "title": "Sobre Thrivebooks CR",
+    "subtitle": "Libros que transforman",
+    "story": "Somos una librería costarricense apasionada por conectar lectores con sus próximas historias favoritas. Ofrecemos libros nuevos y usados en perfecto estado, con envío a todo Costa Rica.",
+    "howItWorks": "¿Cómo funciona?",
+    "steps": {
+      "browse": "Explora nuestro catálogo",
+      "order": "Realiza tu pedido",
+      "pay": "Paga vía SINPE Móvil",
+      "receive": "Recibe tu libro"
+    },
+    "contact": "Contáctanos",
+    "instagram": "Instagram",
+    "facebook": "Facebook Marketplace",
+    "whatsapp": "WhatsApp"
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Correo electrónico inválido",
+    "invalidPhone": "Teléfono inválido",
+    "generic": "Ocurrió un error. Inténtalo de nuevo."
+  },
+  "provinces": {
+    "san_jose": "San José",
+    "alajuela": "Alajuela",
+    "cartago": "Cartago",
+    "heredia": "Heredia",
+    "guanacaste": "Guanacaste",
+    "puntarenas": "Puntarenas",
+    "limon": "Limón"
+  }
+}

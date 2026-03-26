@@ -1,0 +1,157 @@
+{
+  "nav": {
+    "books": "Books",
+    "cart": "Cart",
+    "about": "About",
+    "login": "Sign in",
+    "register": "Register",
+    "myOrders": "My orders",
+    "logout": "Sign out",
+    "admin": "Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Your next favorite story",
+      "subtitle": "New and used books shipped across Costa Rica",
+      "cta": "Browse catalog"
+    },
+    "featured": "Featured books",
+    "allBooks": "See all books"
+  },
+  "catalog": {
+    "title": "Catalog",
+    "noResults": "No books found with these filters.",
+    "filters": {
+      "title": "Filters",
+      "genre": "Genre",
+      "language": "Language",
+      "condition": "Condition",
+      "price": "Price",
+      "clear": "Clear filters"
+    },
+    "genres": {
+      "all": "All",
+      "fiction": "Fiction",
+      "nonfiction": "Non-fiction",
+      "children": "Children",
+      "selfhelp": "Self-help",
+      "history": "History",
+      "science": "Science",
+      "romance": "Romance",
+      "thriller": "Thriller",
+      "biography": "Biography",
+      "other": "Other"
+    },
+    "languages": {
+      "all": "All",
+      "spanish": "Spanish",
+      "english": "English",
+      "other": "Other"
+    },
+    "conditions": {
+      "all": "All",
+      "new": "New",
+      "used_good": "Used — Good condition",
+      "used": "Used"
+    }
+  },
+  "book": {
+    "addToCart": "Add to cart",
+    "author": "Author",
+    "genre": "Genre",
+    "condition": "Condition",
+    "language": "Language",
+    "stock": "In stock",
+    "outOfStock": "Out of stock",
+    "description": "Description",
+    "price": "Price",
+    "backToCatalog": "← Back to catalog"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "emptySubtitle": "Add some books to get started",
+    "browseCatalog": "Browse catalog",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "items": "{count, plural, one {# book} other {# books}}"
+  },
+  "checkout": {
+    "title": "Complete your order",
+    "contactInfo": "Contact information",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone (WhatsApp)",
+    "shipping": "Shipping method",
+    "address": "Delivery address",
+    "province": "Province",
+    "canton": "Canton",
+    "addressLine": "Street address",
+    "addressNotes": "Delivery notes (optional)",
+    "createAccount": "Create an account (optional)",
+    "password": "Password",
+    "orderSummary": "Order summary",
+    "shippingCost": "Shipping",
+    "total": "Total",
+    "placeOrder": "Place order",
+    "shippingMethods": {
+      "uber_flash": "Uber Flash — Same-day delivery (GAM)",
+      "didi": "Didi Envíos — Fast delivery (GAM)",
+      "correos": "Correos CR (Recomendada) — National shipping, 3-5 days"
+    }
+  },
+  "order": {
+    "title": "Order confirmed",
+    "subtitle": "Thank you for your purchase!",
+    "number": "Order",
+    "paymentInstructions": "Payment instructions",
+    "sinpeTitle": "Pay via SINPE Móvil",
+    "sinpeNumber": "SINPE Móvil number",
+    "sinpeAmount": "Amount to transfer",
+    "sinpeConcept": "Payment concept (important)",
+    "sinpeWarning": "Make sure to write the exact order number as the concept to identify your payment.",
+    "confirmPayment": "I already paid",
+    "confirmationNote": "Once we confirm your payment, you'll receive an email with shipping details.",
+    "statuses": {
+      "pending_payment": "Waiting for payment",
+      "awaiting_confirmation": "Payment sent — verifying",
+      "confirmed": "Payment confirmed",
+      "preparing": "Preparing order",
+      "shipped": "On the way",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    }
+  },
+  "about": {
+    "title": "About Thrivebooks CR",
+    "subtitle": "Books that transform",
+    "story": "We are a Costa Rican bookstore passionate about connecting readers with their next favorite stories. We offer new and used books in great condition, with shipping across Costa Rica.",
+    "howItWorks": "How it works",
+    "steps": {
+      "browse": "Browse our catalog",
+      "order": "Place your order",
+      "pay": "Pay via SINPE Móvil",
+      "receive": "Receive your book"
+    },
+    "contact": "Contact us",
+    "instagram": "Instagram",
+    "facebook": "Facebook Marketplace",
+    "whatsapp": "WhatsApp"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidPhone": "Invalid phone number",
+    "generic": "An error occurred. Please try again."
+  },
+  "provinces": {
+    "san_jose": "San José",
+    "alajuela": "Alajuela",
+    "cartago": "Cartago",
+    "heredia": "Heredia",
+    "guanacaste": "Guanacaste",
+    "puntarenas": "Puntarenas",
+    "limon": "Limón"
+  }
+}
